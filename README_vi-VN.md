@@ -145,7 +145,7 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 |--------|-------|
 | 📝 Tổng số câu lệnh | **15801** |
 | ⭐ Nổi bật | **9** |
-| 🔄 Cập nhật lần cuối | **lúc 20:04:02 UTC Thứ Năm, 22 tháng 10, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 00:06:56 UTC Thứ Sáu, 23 tháng 10, 2026** |
 
 </div>
 
@@ -6470,6 +6470,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-22T20:04:02.188Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-23T00:06:56.751Z</sub>
 
 </div>
