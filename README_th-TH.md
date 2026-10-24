@@ -145,7 +145,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 คำสั่งทั้งหมด | **15802** |
 | ⭐ แนะนำ | **9** |
-| 🔄 อัปเดตล่าสุด | **วันศุกร์ที่ 23 ตุลาคม พ.ศ. 2569 เวลา 20 นาฬิกา 03 นาที 19 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันเสาร์ที่ 24 ตุลาคม พ.ศ. 2569 เวลา 0 นาฬิกา 06 นาที 14 วินาที UTC** |
 
 </div>
 
@@ -6458,6 +6458,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-10-23T20:03:19.041Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-10-24T00:06:14.654Z</sub>
 
 </div>
