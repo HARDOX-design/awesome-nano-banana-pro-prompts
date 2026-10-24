@@ -145,7 +145,7 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 |--------|-------|
 | 📝 プロンプト総数 | **15806** |
 | ⭐ おすすめ | **9** |
-| 🔄 最終更新 | **2026年10月24日土曜日 12:03:36 UTC** |
+| 🔄 最終更新 | **2026年10月24日土曜日 16:02:21 UTC** |
 
 </div>
 
@@ -6544,6 +6544,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-10-24T12:03:36.360Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-10-24T16:02:21.850Z</sub>
 
 </div>
