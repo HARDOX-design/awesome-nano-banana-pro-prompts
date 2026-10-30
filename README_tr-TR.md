@@ -145,7 +145,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **15819** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **30 Ekim 2026 Cuma 00:06:12 UTC** |
+| 🔄 Son Güncelleme | **30 Ekim 2026 Cuma 04:04:11 UTC** |
 
 </div>
 
@@ -6674,6 +6674,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-30T00:06:12.979Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-30T04:04:11.573Z</sub>
 
 </div>
